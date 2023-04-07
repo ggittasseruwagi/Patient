@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="446e9b3f-b501-45d1-8fe6-cc7628834ee3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vut/Address.java" afterDir="false" />
+    <list default="true" id="446e9b3f-b501-45d1-8fe6-cc7628834ee3" name="Changes" comment="This is he Address class it is meant to put out all the variables we need to uniquely identify a singulat patient.&#10;&#10;we declare variable Street, Town and PostalCode to keep the foloowing information about all our patients.">
+      <change afterPath="$PROJECT_DIR$/src/vut/Patient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1680853429891</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is he Address class it is meant to put out all the variables we need to uniquely identify a singulat patient.&#10;&#10;we declare variable Street, Town and PostalCode to keep the foloowing information about all our patients.">
+      <created>1680854967902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680854967902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is he Address class it is meant to put out all the variables we need to uniquely identify a singulat patient.&#10;&#10;we declare variable Street, Town and PostalCode to keep the foloowing information about all our patients." />
+    <option name="LAST_COMMIT_MESSAGE" value="This is he Address class it is meant to put out all the variables we need to uniquely identify a singulat patient.&#10;&#10;we declare variable Street, Town and PostalCode to keep the foloowing information about all our patients." />
   </component>
 </project>

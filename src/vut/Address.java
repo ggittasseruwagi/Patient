@@ -2,6 +2,14 @@ package vut;
 
 public abstract class Address {
 
+    /*
+    attributes
+    *** include Street, Town, PostalCode
+    constructor
+    *** code the parameterised constructor only
+    Methods
+    *** Override the toString method to return all the attributes of the class separated by a semi-colon(;).
+     */
     String Street;
     String Town;
     int PostalCode;
